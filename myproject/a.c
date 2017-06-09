@@ -4,5 +4,4 @@ asdf
 adfgfa
 wozaiceshi
 dadouge
-dadouchen
-zenmeuishi
+dadouc
